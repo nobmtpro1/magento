@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c34302208012f52c0d0db0fa8d0ea2af",
+    "content-hash": "8893dedf98a5e2cb056faac5daf048ec",
     "packages": [
         {
             "name": "braintree/braintree_php",
@@ -687,6 +687,7 @@
                 "php",
                 "stylesheet"
             ],
+            "abandoned": true,
             "time": "2015-03-10T18:12:59+00:00"
         },
         {
@@ -1437,6 +1438,7 @@
                 "code",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-code",
             "time": "2015-05-11T16:17:05+00:00"
         },
         {
@@ -1494,6 +1496,7 @@
                 "config",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-config",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -1544,6 +1547,7 @@
                 "console",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-console",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -1596,6 +1600,7 @@
                 "crypt",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-crypt",
             "time": "2015-11-23T16:33:27+00:00"
         },
         {
@@ -1647,6 +1652,7 @@
                 "di",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-di",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -1692,6 +1698,7 @@
                 "escaper",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-escaper",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -1738,6 +1745,7 @@
                 "eventmanager",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-eventmanager",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -1794,6 +1802,7 @@
                 "filter",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-filter",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -1865,6 +1874,7 @@
                 "form",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-form",
             "time": "2015-09-09T19:11:05+00:00"
         },
         {
@@ -1916,6 +1926,7 @@
                 "http",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-http",
             "time": "2015-09-14T16:11:20+00:00"
         },
         {
@@ -1980,6 +1991,7 @@
                 "i18n",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-i18n",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2031,6 +2043,7 @@
                 "inputfilter",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-inputfilter",
             "time": "2015-09-09T15:44:54+00:00"
         },
         {
@@ -2085,6 +2098,7 @@
                 "json",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-json",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2130,6 +2144,7 @@
                 "loader",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-loader",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2192,6 +2207,7 @@
                 "logging",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-log",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2243,6 +2259,7 @@
                 "math",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-math",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2301,6 +2318,7 @@
                 "modulemanager",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-modulemanager",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2389,6 +2407,7 @@
                 "mvc",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-mvc",
             "time": "2015-09-14T16:32:50+00:00"
         },
         {
@@ -2442,6 +2461,7 @@
                 "serializer",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-serializer",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2489,6 +2509,7 @@
                 "server",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-server",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2539,6 +2560,7 @@
                 "servicemanager",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-servicemanager",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2591,6 +2613,7 @@
                 "soap",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-soap",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2646,6 +2669,7 @@
                 "stdlib",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-stdlib",
             "time": "2015-07-21T13:55:46+00:00"
         },
         {
@@ -2693,6 +2717,7 @@
                 "text",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-text",
             "time": "2015-05-07T14:55:31+00:00"
         },
         {
@@ -2741,6 +2766,7 @@
                 "uri",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-uri",
             "time": "2015-09-14T16:17:10+00:00"
         },
         {
@@ -2806,6 +2832,7 @@
                 "validator",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-validator",
             "time": "2015-09-08T21:04:17+00:00"
         },
         {
@@ -2883,6 +2910,7 @@
                 "view",
                 "zf2"
             ],
+            "abandoned": "laminas/laminas-view",
             "time": "2015-06-16T15:22:37+00:00"
         }
     ],
@@ -4216,6 +4244,59 @@
             "time": "2018-01-03T07:37:34+00:00"
         },
         {
+            "name": "symfony/var-dumper",
+            "version": "v2.6.0",
+            "target-dir": "Symfony/Component/VarDumper",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/var-dumper.git",
+                "reference": "8f3ee04faeca3b8418229b2efbfc8b2b8625b8aa"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/8f3ee04faeca3b8418229b2efbfc8b2b8625b8aa",
+                "reference": "8f3ee04faeca3b8418229b2efbfc8b2b8625b8aa",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "suggest": {
+                "ext-symfony_debug": ""
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.6-dev"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "Resources/functions/dump.php"
+                ],
+                "psr-0": {
+                    "Symfony\\Component\\VarDumper\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                }
+            ],
+            "description": "Symfony mechanism for exploring and dumping PHP variables",
+            "homepage": "http://symfony.com",
+            "keywords": [
+                "debug",
+                "dump"
+            ],
+            "time": "2014-11-18T10:08:24+00:00"
+        },
+        {
             "name": "symfony/yaml",
             "version": "v2.8.34",
             "source": {
@@ -4288,5 +4369,6 @@
         "ext-openssl": "*",
         "ext-zip": "*"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
